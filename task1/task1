@@ -1,0 +1,139 @@
+# pricelist=[]
+
+# for instance in range(0,6):
+#     product=input('Mehsulun adi')
+#     price=input('mehsulun qiymeti')
+#     a={'ad':product,'qiymet':price}
+#     pricelist.append(a)
+# print(pricelist)    
+
+#task 2
+# portfolio=0
+# for instance in range(0,2):
+#     stock=input('sehm adi')
+#     qua=int(input('sehm sayi'))
+#     price=int(input('sehmin qiymeti'))
+#     portfolio1=qua*price
+#     portfolio+=portfolio1
+    
+# print('portfelin umumi deyeri:',portfolio)        
+
+
+#task3
+# patients=[]
+
+# for instance in range(0,5):
+#      patient=input('Xeste adi')
+#      age=input('Xestenin yasi')
+#      b={'ad'patient,'yas':age}
+#      patients.append(b)
+# print(patients)  
+
+#task 4
+# students=[]
+
+# for instance in range(0,8):
+#     student=input('Telebe adi')
+#     age1=input('Telebenin yasi')
+#     c={'ad':product,'yas':price}
+#     students.append(c)
+# print(pricelist)  
+
+#task 5
+# pricelist1=[]
+
+# for instance in range(0,4):
+#     meal=input('Mehsulun adi')
+#     price1=input('mehsulun qiymeti')
+#     a={'ad':product,'qiymet':price1}
+#     pricelist1.append(a)
+# print(pricelist1)  
+
+#task 6
+
+# programmers=[]
+
+# for instance in range(0,6):
+#     name=input('Proqramcinin  adi')
+#     language=input('istifade etdiyi dil')
+#     d={'ad':name,'dil':language}
+#     programmers.append(d)
+# print(programmers) 
+
+#task 7 
+# dist=int(input('mesafeni daxil edin(km)'))
+# time=int(input('vaxt(saat)'))
+# avrg=dist/time
+# print('orta suretiniz:',avrg)
+
+#task 8
+# films=[]
+
+# for instance in range(0,4):
+#     film=input('Filmin adi')
+#     date=input('Istehsal tarixi')
+#     e={'ad':film,'istehsal tarixi':date}
+#     films.append(e)
+# print(films)
+
+#task 9
+# houses=[]
+
+# for instance in range(0,4):
+#     area=input('Sahesi')
+#     price5=input('qiymeti')
+#     f={'sahe':product,'qiymet':price5}
+#     houses.append(f)
+# print(houses)    
+ #task10
+
+# pricelist_=[]
+
+# for instance in range(0,7):
+#     product_=input('Mehsulun adi')
+#     price_=input('mehsulun qiymeti')
+#     k={'ad':product_,'qiymet':price_}
+#     pricelist_.append(k)
+# print(pricelist_)  
+
+#task 11
+# vegetables=[]
+
+# for instance in range(0,2):
+#     veg=input('Mehsulun adi')
+#     price7=input('mehsulun qiymeti')
+#     n={'ad':veg,'qiymet':price7}
+#     vegetables.append(n)
+# print(vegetables)  
+
+#task 12
+
+# phones=[]
+
+# for instance in range(0,6):
+#     name8=input('Telefonun adi')
+#     price8=input('telefonun  qiymeti')
+#     l={'ad':name8,'qiymet':price8}
+#     phones.append(l)
+# print(phones)  
+
+#task 13
+
+
+# tickets=int(input('bilet xerci'))
+# hotel=int(input('otel xerci'))
+# car_rent=int(input('avtomobil icare xerci'))
+# expenses=tickets+hotel+car_rent
+# print('umumi xerciniz', expenses)
+
+#task 14
+# aa=int(input('wood quantity'))
+# ab=int(input('wood price'))
+# ba=int(input('cement quantity '))
+# bb=int(input('cement price'))
+# ca=int(input('sand quantity'))
+# cb=int(input('sand price '))
+# da=int(input('iron quantity '))
+# db=int(input('iron price '))
+# cost=aa*ab+ba*bb+ca*cb+da*db
+# print('umumi xerciniz:', cost)
